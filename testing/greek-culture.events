@@ -1,0 +1,18 @@
+# options
+all_dates_bc = 1
+
+# literature
+c 525BC-  456;  2: Aeschylus
+  458      ;  3: Aeschylus' Oresteia
+c 445-  380;  2: Aristophanes
+c 460-c 400;  4: Thucydides
+c 487-c 406;  5: Sophocles
+
+# philosophy
+  399      ;  1: Execution of Socrates
+c 428-c 348;  3: Plato
+
+# other
+c 480      ;  1: Kritios Boy
+  448-  432;  1: The Parthenon is built
+

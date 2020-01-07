@@ -1,0 +1,205 @@
+<!--
+     Document automatically generated
+     by mktimeline - text to svg timeline convertor
+     version 02-feb-2013 (c) Bruno Oberle
+     on Fri Mar 20 09:23:47 2020.
+
+     DO NOT MODIFY THIS FILE!
+-->
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1">
+
+<style type="text/css" >
+   <![CDATA[
+   /* --- text --- */
+   text {
+      font-family:      Verdana;
+   }
+   /* --- grid --- */
+   line.grid {
+      stroke:           LightGray;
+      stroke-width:     1px;
+   }
+   text.grid {
+      fill:             Gray;
+      font-size:        10pt;
+   }
+   /* --- event --- */
+   circle.event {
+      stroke:           black;
+      stroke-width:     3px;
+   }
+   rect.event {
+      stroke:           black;
+      stroke-width:     3px;
+   }
+   text.event {
+      fill:             Black;
+      font-size:        10pt;
+   }
+   /* --- link --- */
+   polyline.link {
+      stroke:           black;
+      stroke-width:     3px;
+      fill:             none;
+   }
+   /* --- title --- */
+   rect.title {
+      stroke:           none;
+      stroke-width:     0px;
+      fill:             LightGray;
+   }
+   text.title {
+      font-family:      Verdana;
+      fill:             Black;
+      font-size:        10pt;
+   }
+   ]]>
+</style>
+
+<!-- this rectangle is used as background color for the whole doc -->
+<rect width="100%" height="100%" style="fill: white"/>
+
+<rect x="0" y="0" height="770" width="1125" style="fill: white;"/>
+<line class="grid" x1="10" y1="10" x2="10" y2="760"/>
+<text class="grid" x="12" y="760">550</text>
+<line class="grid" x1="60" y1="10" x2="60" y2="760"/>
+<line class="grid" x1="110" y1="10" x2="110" y2="760"/>
+<text class="grid" x="112" y="760">530</text>
+<line class="grid" x1="160" y1="10" x2="160" y2="760"/>
+<line class="grid" x1="210" y1="10" x2="210" y2="760"/>
+<text class="grid" x="212" y="760">510</text>
+<line class="grid" x1="260" y1="10" x2="260" y2="760"/>
+<line class="grid" x1="310" y1="10" x2="310" y2="760"/>
+<text class="grid" x="312" y="760">490</text>
+<line class="grid" x1="360" y1="10" x2="360" y2="760"/>
+<line class="grid" x1="410" y1="10" x2="410" y2="760"/>
+<text class="grid" x="412" y="760">470</text>
+<line class="grid" x1="460" y1="10" x2="460" y2="760"/>
+<line class="grid" x1="510" y1="10" x2="510" y2="760"/>
+<text class="grid" x="512" y="760">450</text>
+<line class="grid" x1="560" y1="10" x2="560" y2="760"/>
+<line class="grid" x1="610" y1="10" x2="610" y2="760"/>
+<text class="grid" x="612" y="760">430</text>
+<line class="grid" x1="660" y1="10" x2="660" y2="760"/>
+<line class="grid" x1="710" y1="10" x2="710" y2="760"/>
+<text class="grid" x="712" y="760">410</text>
+<line class="grid" x1="760" y1="10" x2="760" y2="760"/>
+<line class="grid" x1="810" y1="10" x2="810" y2="760"/>
+<text class="grid" x="812" y="760">390</text>
+<line class="grid" x1="860" y1="10" x2="860" y2="760"/>
+<line class="grid" x1="910" y1="10" x2="910" y2="760"/>
+<text class="grid" x="912" y="760">370</text>
+<line class="grid" x1="960" y1="10" x2="960" y2="760"/>
+<line class="grid" x1="1010" y1="10" x2="1010" y2="760"/>
+<text class="grid" x="1012" y="760">350</text>
+<line class="grid" x1="1060" y1="10" x2="1060" y2="760"/>
+<line class="grid" x1="1110" y1="10" x2="1110" y2="760"/>
+<text class="grid" x="1112" y="760">330</text>
+<rect class="event" x="25" y="60" rx="5" ry="5" width="105" height="10" style="fill: red;"/>
+<polyline class="link" points="30,60 30,50 40,50"/>
+<text class="event" x="45" y="53">Pesistratos' lead (546-527)</text>
+<rect class="event" x="205" y="60" rx="5" ry="5" width="10" height="10" style="fill: red;"/>
+<polyline class="link" points="210,60 210,50 220,50"/>
+<text class="event" x="225" y="53">Democracy in Athens (510)</text>
+<rect class="event" x="215" y="160" rx="5" ry="5" width="10" height="10" style="fill: red;"/>
+<polyline class="link" points="220,160 220,150 230,150"/>
+<text class="event" x="235" y="153">Kleisthenes (508)</text>
+<rect class="event" x="260" y="110" rx="5" ry="5" width="35" height="10" style="fill: red;"/>
+<polyline class="link" points="265,110 265,100 275,100"/>
+<text class="event" x="280" y="103">Ionian revolt (499-494)</text>
+<rect class="event" x="345" y="160" rx="5" ry="5" width="10" height="10" style="fill: red;"/>
+<polyline class="link" points="350,160 350,150 360,150"/>
+<text class="event" x="365" y="153">Aristides ostracized (482)</text>
+<rect class="event" x="365" y="210" rx="5" ry="5" width="380" height="10" style="fill: red;"/>
+<polyline class="link" points="370,210 370,200 380,200"/>
+<text class="event" x="385" y="203">Delian League (478-404)</text>
+<rect class="event" x="430" y="60" rx="5" ry="5" width="10" height="10" style="fill: red;"/>
+<polyline class="link" points="435,60 435,50 445,50"/>
+<text class="event" x="450" y="53">Heliot Revolt (465)</text>
+<rect class="event" x="455" y="110" rx="5" ry="5" width="165" height="10" style="fill: red;"/>
+<polyline class="link" points="460,110 460,100 470,100"/>
+<text class="event" x="475" y="103">Pericles' lead (460-429)</text>
+<rect class="event" x="605" y="60" rx="5" ry="5" width="10" height="10" style="fill: red;"/>
+<polyline class="link" points="610,60 610,50 620,50"/>
+<text class="event" x="625" y="53">Plague (430)</text>
+<rect class="event" x="675" y="160" rx="5" ry="5" width="10" height="10" style="fill: red;"/>
+<polyline class="link" points="680,160 680,150 690,150"/>
+<text class="event" x="695" y="153">Athens razes Melos (416)</text>
+<rect class="event" x="680" y="110" rx="5" ry="5" width="20" height="10" style="fill: red;"/>
+<polyline class="link" points="685,110 685,100 695,100"/>
+<text class="event" x="700" y="103">Expedition to Syracuse (415-413)</text>
+<rect class="event" x="735" y="60" rx="5" ry="5" width="15" height="10" style="fill: red;"/>
+<polyline class="link" points="740,60 740,50 750,50"/>
+<text class="event" x="755" y="53">Thirty Tyrants in Athens (404-403)</text>
+<rect class="event" x="900" y="110" rx="5" ry="5" width="10" height="10" style="fill: red;"/>
+<polyline class="link" points="905,110 905,100 915,100"/>
+<text class="event" x="920" y="103">Spartan hegemony ends (371)</text>
+<rect class="event" x="945" y="160" rx="5" ry="5" width="10" height="10" style="fill: red;"/>
+<polyline class="link" points="950,160 950,150 960,150"/>
+<text class="event" x="965" y="153">Theban hegemony ends (362)</text>
+<rect class="event" x="260" y="260" rx="5" ry="5" width="110" height="10" style="fill: green;"/>
+<polyline class="link" points="265,260 265,250 275,250"/>
+<text class="event" x="280" y="253">Persian Wars (499-479)</text>
+<rect class="event" x="455" y="260" rx="5" ry="5" width="85" height="10" style="fill: green;"/>
+<polyline class="link" points="460,260 460,250 470,250"/>
+<text class="event" x="475" y="253">First Pelop. War (460-445)</text>
+<rect class="event" x="600" y="260" rx="5" ry="5" width="145" height="10" style="fill: green;"/>
+<polyline class="link" points="605,260 605,250 615,250"/>
+<text class="event" x="620" y="253">Second Pelop. War (431-404)</text>
+<rect class="event" x="755" y="260" rx="5" ry="5" width="75" height="10" style="fill: green;"/>
+<polyline class="link" points="760,260 760,250 770,250"/>
+<text class="event" x="775" y="253">Spartan War against Persia (400-387)</text>
+<rect class="event" x="305" y="310" rx="5" ry="5" width="10" height="10" style="fill: green;"/>
+<polyline class="link" points="310,310 310,300 320,300"/>
+<text class="event" x="325" y="303">Battle of Marathon (490)</text>
+<rect class="event" x="355" y="360" rx="5" ry="5" width="10" height="10" style="fill: green;"/>
+<polyline class="link" points="360,360 360,350 370,350"/>
+<text class="event" x="375" y="353">Battle of Salamis (480)</text>
+<rect class="event" x="360" y="410" rx="5" ry="5" width="10" height="10" style="fill: green;"/>
+<polyline class="link" points="365,410 365,400 375,400"/>
+<text class="event" x="380" y="403">Battle of Plataea (479)</text>
+<rect class="event" x="665" y="360" rx="5" ry="5" width="10" height="10" style="fill: green;"/>
+<polyline class="link" points="670,360 670,350 680,350"/>
+<text class="event" x="685" y="353">1st battle of Mantinea (418)</text>
+<rect class="event" x="900" y="310" rx="5" ry="5" width="10" height="10" style="fill: green;"/>
+<polyline class="link" points="905,310 905,300 915,300"/>
+<text class="event" x="920" y="303">Battle of Leuctra (371)</text>
+<rect class="event" x="945" y="360" rx="5" ry="5" width="10" height="10" style="fill: green;"/>
+<polyline class="link" points="950,360 950,350 960,350"/>
+<text class="event" x="965" y="353">2nd battle of Mantinea (362)</text>
+<rect class="event" x="525" y="310" rx="5" ry="5" width="10" height="10" style="fill: green;"/>
+<polyline class="link" points="530,310 530,300 540,300"/>
+<text class="event" x="545" y="303">Thirty Years' Peace (446)</text>
+<rect class="event" x="735" y="310" rx="5" ry="5" width="10" height="10" style="fill: green;"/>
+<polyline class="link" points="740,310 740,300 750,300"/>
+<text class="event" x="755" y="303">Athens surrenders (404)</text>
+<rect class="event" x="130" y="510" rx="5" ry="5" width="355" height="10" style="fill: yellow;"/>
+<polyline class="link" points="135,510 135,500 145,500"/>
+<text class="event" x="150" y="503">Aeschylus (c525-456)</text>
+<rect class="event" x="465" y="560" rx="5" ry="5" width="10" height="10" style="fill: yellow;"/>
+<polyline class="link" points="470,560 470,550 480,550"/>
+<text class="event" x="485" y="553">Aeschylus' Oresteia (458)</text>
+<rect class="event" x="530" y="510" rx="5" ry="5" width="335" height="10" style="fill: yellow;"/>
+<polyline class="link" points="535,510 535,500 545,500"/>
+<text class="event" x="550" y="503">Aristophanes (c445-380)</text>
+<rect class="event" x="455" y="610" rx="5" ry="5" width="310" height="10" style="fill: yellow;"/>
+<polyline class="link" points="460,610 460,600 470,600"/>
+<text class="event" x="475" y="603">Thucydides (c460-c400)</text>
+<rect class="event" x="320" y="660" rx="5" ry="5" width="415" height="10" style="fill: yellow;"/>
+<polyline class="link" points="325,660 325,650 335,650"/>
+<text class="event" x="340" y="653">Sophocles (c487-c406)</text>
+<rect class="event" x="760" y="460" rx="5" ry="5" width="10" height="10" style="fill: yellow;"/>
+<polyline class="link" points="765,460 765,450 775,450"/>
+<text class="event" x="780" y="453">Execution of Socrates (399)</text>
+<rect class="event" x="615" y="560" rx="5" ry="5" width="410" height="10" style="fill: yellow;"/>
+<polyline class="link" points="620,560 620,550 630,550"/>
+<text class="event" x="635" y="553">Plato (c428-c348)</text>
+<rect class="event" x="355" y="460" rx="5" ry="5" width="10" height="10" style="fill: yellow;"/>
+<polyline class="link" points="360,460 360,450 370,450"/>
+<text class="event" x="375" y="453">Kritios Boy (c480)</text>
+<rect class="event" x="515" y="460" rx="5" ry="5" width="90" height="10" style="fill: yellow;"/>
+<polyline class="link" points="520,460 520,450 530,450"/>
+<text class="event" x="535" y="453">The Parthenon is built (448-432)</text>
+
+</svg>

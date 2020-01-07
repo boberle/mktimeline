@@ -1,0 +1,21 @@
+# options
+all_dates_bc = 1
+
+# wars
+  499-  479;  1: Persian Wars
+  460-  445;  1: First Pelop. War
+  431-  404;  1: Second Pelop. War
+  400-  387;  1: Spartan War against Persia
+
+# battles
+  490      ;  2: Battle of Marathon
+  480      ;  3: Battle of Salamis
+  479      ;  4: Battle of Plataea
+  418      ;  3: 1st battle of Mantinea
+  371      ;  2: Battle of Leuctra
+  362      ;  3: 2nd battle of Mantinea
+
+# other
+  446      ;  2: Thirty Years' Peace
+  404      ;  2: Athens surrenders
+
